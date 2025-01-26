@@ -1,4 +1,4 @@
-# Dual-Card-Data-Transmission-System-STM32-UART-
+# Dual-Board-Data-Transmission-System-STM32-UART-
 Real-time embedded communication system featuring two STM32 boards with interrupt-driven architecture.
 A robust communication system between two STM32 boards using **HAL libraries** and **STM32CubeMX** configuration, demonstrating interrupt-driven UART communication and ADC conversion.
 
